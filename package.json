@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-spaceship-yield-life-support",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": "git@github.com:civ-clone/base-spaceship-yield-life-support.git",
   "keywords": [
     "typescript",
@@ -34,7 +34,7 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
-    "@civ-clone/core-spaceship": "github:civ-clone/core-spaceship",
+    "@civ-clone/core-spaceship": "^0.1.0",
     "@civ-clone/core-yield": "^0.1.0"
   }
 }
